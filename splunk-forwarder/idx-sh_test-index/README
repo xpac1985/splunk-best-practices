@@ -1,0 +1,5 @@
+Creates an index "test" that can be used to test data parsing etc.
+Data in the index is automatically removed after a few days
+
+Also creates an index "catchall" where all events go that are destined for a non-existing index
+Includes a health check item to check for items in that index
