@@ -3,3 +3,6 @@ Data in the index is automatically removed after a few days
 
 Also creates an index "catchall" where all events go that are destined for a non-existing index
 Includes a health check item to check for items in that index
+
+Can be deployed on any (full) Splunk instance.
+Indexers are required. Search Heads are required for typeahead support. Monitoring Console is required for Health Check support.
