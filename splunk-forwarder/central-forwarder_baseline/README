@@ -1,0 +1,2 @@
+Should be applied to all "central" forwarders - machines dedicated to collecting and forwarding data.
+This usually includes all HFs as well as UFs that are used on syslog boxes and as "network concentrators".
